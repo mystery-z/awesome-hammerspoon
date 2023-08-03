@@ -39,4 +39,7 @@ luac.out
 *.x86_64
 *.hex
 
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
 .DS_Store
